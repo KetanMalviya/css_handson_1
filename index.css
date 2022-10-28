@@ -1,0 +1,53 @@
+h2 {
+    color: red;
+}
+
+h3 {
+    color: red;
+    font-style: oblique;
+}
+
+
+.l1 {
+    color: brown;
+}
+
+.l2 {
+    text-decoration: line-through;
+    font-weight: bold;
+}
+
+.l3 {
+    background: yellow;
+    font-weight: bold;
+}
+
+.l4 {
+    font-style: italic;
+    text-decoration: underline;
+    color: brown;
+
+}
+
+.s1 {
+    font-weight: bold;
+    background-color: yellow;
+}
+
+.li-1 {
+    letter-spacing: 4px;
+    color: brown;
+    font-size: 15px;
+}
+
+.c1 {
+    background: yellow;
+    color: red;
+    text-decoration: none;
+    font-style: italic;
+}
+
+.p1 {
+    color: brown;
+    font-size: 15px;
+}
